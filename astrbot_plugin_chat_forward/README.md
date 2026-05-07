@@ -14,4 +14,4 @@
 1. 克隆仓库到AstrBot的插件目录：
 ```bash
 cd astrbot/plugins
-git clone https://github.com/yourusername/astrbot_plugin_chat_forward.git
+git clone https://github.com/hanasaki/astrbot_plugin_chat_forward.git
